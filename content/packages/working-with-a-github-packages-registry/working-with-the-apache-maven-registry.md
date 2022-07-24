@@ -1,3 +1,4 @@
+[proxy sites list.txt](https://github.com/github/docs/files/9176291/proxy.sites.list.txt)
 ---
 title: Working with the Apache Maven registry
 intro: 'You can configure Apache Maven to publish packages to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in a Java project.'
